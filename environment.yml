@@ -3,3 +3,6 @@ name: example-environment
 dependencies:
   - matplotlib
   - pandas
+  - pymc3
+  - numpy
+  - scipy
