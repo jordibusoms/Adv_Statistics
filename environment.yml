@@ -6,3 +6,5 @@ dependencies:
   - pymc3
   - numpy
   - scipy
+  - sklearn
+  - copy
